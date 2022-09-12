@@ -34,7 +34,7 @@
     ```
  5. Menampilkan peta di layar pada file `main.dart`.
  
- ![screenshot](images/01.png)
+  ![screenshot](images/01.png)
  
  ### Menempatkan Google di Peta
  
@@ -62,17 +62,17 @@
  
  8. Menampilkan lokasi Google di layar pada file `main.dart`. 
  
- ![screenshot](images/02.png)
+  ![screenshot](images/02.png)
  
  ## Tugas
  
  Menambahkan maker pada posisi rumah. 
  
- | Tipe Map Normal | Tipe Map Satelite |
+ | Mode Map Normal | Pin Lokasi |
  | --------------- | ----------------- |
  | ![screenshot](images/03.png) | ![screenshot](images/04.png) |
  
- | Pin Lokasi      | Muncul Info Ketika Klik Pin Lokasi |
+ | Muncul Info Ketika Klik Pin Lokasi | Mode Map Satelit  |
  | --------------- | ----------------- |
  | ![screenshot](images/05.png) | ![screenshot](images/06.png) |
  
