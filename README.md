@@ -66,7 +66,7 @@
  
  ## Tugas
  
- Menambahkan maker pada posisi rumah. 
+ Menambahkan marker pada posisi rumah. 
  
  | Mode Map Normal | Pin Lokasi |
  | --------------- | ----------------- |
