@@ -34,7 +34,7 @@
     ```
  5. Menampilkan peta di layar pada file `main.dart`.
  
- ![screenshot]!(images/01.png)
+ ![screenshot](images/01.png)
  
  ### Menempatkan Google di Peta
  
