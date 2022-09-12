@@ -64,7 +64,18 @@
  
  ![screenshot](images/02.png)
  
+ ## Tugas
  
+ Menambahkan maker pada posisi rumah. 
  
+ | Tipe Map Normal | Tipe Map Satelite |
+ | --------------- | ----------------- |
+ | ![screenshot](images/03.png) | ![screenshot](images/04.png) |
+ 
+ | Pin Lokasi      | Muncul Info Ketika Klik Pin Lokasi |
+ | --------------- | ----------------- |
+ | ![screenshot](images/05.png) | ![screenshot](images/06.png) |
+ 
+
  
  
